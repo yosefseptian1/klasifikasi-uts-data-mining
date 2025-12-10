@@ -12,7 +12,7 @@
     <PackageReference Include="Microsoft.ML" Version="5.0.0" />
     <PackageReference Include="Microsoft.ML.FastTree" Version="5.0.0" />
     <PackageReference Include="Microsoft.ML.Mkl.Components" Version="5.0.0" />
-    <PackageReference Include="Npgsql" Version="9.0.4" />
+    <PackageReference Include="Npgsql" Version="10.0.0" />
     <PackageReference Include="ScottPlot" Version="5.1.57" />
   </ItemGroup>
 
